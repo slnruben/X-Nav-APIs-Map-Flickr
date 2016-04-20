@@ -1,9 +1,9 @@
-# Leaflet: Fotos de Flickr
+# Leaflet: Aplicación móvil
 
-Ejercicio de asignaturas de aplicaciones HTML5. Tema APIs JavaScript. Leaflet: Fotos de Flickr.
+Ejercicio de asignaturas de aplicaciones HTML5. Tema APIs JavaScript. Leaflet: Aplicación móvil.
 
 ## Enunciado
 
-Realizar una aplicación que muestre un mapa de OpenStreetMap, usando Leaflet, con un formulario en el que se pueda introducir el nombre de un lugar. Cuando se introduzca uno, se mostrará un listado de los cinco primeros lugares que ofrezca Nominatim para ese nombre de lugar, de forma que al pulsar sobre cualquiera de ellos, el mapa se centre en ese lugar. Además, en ese momento se abrirá un panel donde se mostrarán varias fotos de Flickr que tengan como etiqueta el nombre de lugar.
+Mejora tu solución del ejercicio ``Leaflet: Coordenadas'', haciendo que el mapa se muestre a pantalla completa, colocado sobre tu situación actual (que se muestre como un círculo con un tamaño squivalente a la exactitud de la localización), y de forma que funcione en móviles.
 
-Para hacer este ejercicio se usará la interfaz JSONP de Flickr.
+<a href="http://slnruben.github.io/X-Nav-APIs-Map-Flickr">Leaflet y Flickr</a>
